@@ -6,7 +6,7 @@ namespace Tyuiu.ShmidtAA.Sprint1.Task0.V18.Lib
     {
         public double Calculate()
         {
-            return 9 * (6 / 2 * 3) / 9 / 3;
+            return 9 * (6 / 2 * 3) / 9 / 2;
         }
     }
 }
