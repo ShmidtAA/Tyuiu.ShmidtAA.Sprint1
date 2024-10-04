@@ -6,7 +6,7 @@ namespace Tyuiu.ShmidtAA.Sprint1.Task5.V7.Lib
     {
         public int AngleToHoursMinutes(double f)
         {
-            return Convert.ToInt32(f*2/ 60);
+            return Convert.ToInt32(Math.Floor(Math.Round((f/ 30),3)));
         }
     }
 }
