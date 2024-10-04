@@ -9,7 +9,7 @@ namespace Tyuiu.ShmidtAA.Sprint1.Task5.V7.Test
         {
             DataService ds = new DataService(); 
             double x = 30;
-            Assert.AreEqual((Convert.ToInt32(x / 30)), ds.AngleToHoursMinutes(x));
+            Assert.AreEqual((Convert.ToInt32(x*2 / 60)), ds.AngleToHoursMinutes(x));
         }
     }
 }
