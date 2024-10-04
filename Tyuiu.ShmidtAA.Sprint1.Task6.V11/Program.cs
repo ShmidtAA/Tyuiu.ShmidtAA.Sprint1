@@ -22,7 +22,7 @@ namespace Tyuiu.ShmidtAA.Sprint1.Task6.V11
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("*                                                                         *");
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                 bool         *");
+            Console.WriteLine("* РЕЗУЛЬТАТ:      true/false                                              *");
             Console.WriteLine("***************************************************************************");
 
             DataService ds = new DataService();
