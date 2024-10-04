@@ -8,8 +8,8 @@ namespace Tyuiu.ShmidtAA.Sprint1.Task6.V11
             Console.Title = "Спринт #1 | Выполнил: Шмидт А.А. | ИБКСб-24-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #1                                                               *");
-            Console.WriteLine("* Тема: Преобразование классов и тип Convert                              *");
-            Console.WriteLine("* Задание #5                                                              *");
+            Console.WriteLine("* Тема: работа со строками класс String                                   *");
+            Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
             Console.WriteLine("* Выполнил: Шмидт Андрей Андреевич | ИБКСб-24-1                           *");
             Console.WriteLine("***************************************************************************");
